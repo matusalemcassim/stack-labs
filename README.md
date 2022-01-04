@@ -1,4 +1,4 @@
-# stack-labs
+# Stack-labs
 Repositório do projeto proposto pela Stack Academy
 
 O projeto proposto foi em montar um projeto de ciência de dados end-to-end com dados públicos no kaggle, com a base de dados da OLIST, https://www.kaggle.com/olistbr/brazilian-ecommerce.
