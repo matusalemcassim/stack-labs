@@ -7,7 +7,7 @@ Este projeto conta com uma equipe muito empenhada em desenvolver a melhor análi
 
 
 Membros:  Matusalem Cassim (Cientista de dados),\
-          Vivian Andrade (Cientista de dados e coordenadora),\
-          Bruno Almeida (Power BI),\
-          José Augusto (Analista de dados),\
-          Claus de Souza (Coordenador).
+          Vivian Andrade (Cientista de dados),\
+          Bruno Almeida (Analista de Dados),\
+          José Augusto (Engenheiro e Analista de Dados),\
+          Claus de Souza (Engenheiro de Dados e Gestor).
