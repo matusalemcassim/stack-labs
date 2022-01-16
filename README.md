@@ -6,8 +6,8 @@ O projeto proposto foi em montar um projeto de ciência de dados end-to-end com 
 Este projeto conta com uma equipe muito empenhada em desenvolver a melhor análise e solução para uma previsão de vendas utilizando séries temporais com o modelo ARIMA e também o PROPHET.
 
 
-Membros:  Matusalem Cassim (Cientista de dados),\
-          Vivian Andrade (Cientista de dados),\
+Membros:  Matusalem Cassim (Engenheiro de Dados e Cientista de Dados),\
+          Vivian Andrade (Cientista de dados e Gestora),\
           Bruno Almeida (Analista de Dados),\
-          José Augusto (Engenheiro),\
-          Claus de Souza (Engenheiro de Dados e Gestor).
+          José Augusto (Engenheiro de Dados),\
+         
