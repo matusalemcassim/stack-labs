@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "c:\\Users\\cassim\\anaconda3\\envs\\streamlit_prophet",
+    "python.terminal.activateEnvironment": true,
+    "python.condaPath" :"C:\\Users\\Cassim\\anaconda3\\Scripts\\conda.exe",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+}
