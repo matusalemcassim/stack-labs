@@ -9,8 +9,8 @@ Tentamos tirar insights sobre os periodos que ocorrem mais vendas, quais produto
 
 Membros:  
 
-Matusalem Cassim (Engenheiro de Dados e Cientista de Dados),\
-Vivian Andrade (Cientista de dados e Gestora),\
-Bruno Almeida (Analista de Dados),\
-José Augusto (Engenheiro de Dados)
-         
+Matusalem Cassim (Engenheiro de Dados e Cientista de Dados)
+
+Vivian Andrade (Cientista de dados e Gestora)
+
+Bruno Almeida (Analista de Dados)   
