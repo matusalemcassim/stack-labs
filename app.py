@@ -3,6 +3,7 @@ import streamlit as st
 #Import NumPy and Pandas for data manipulation 
 import pandas as pd
 import numpy as np
+from matplotlib import pyplot as plt
 from fbprophet import Prophet
 from fbprophet.diagnostics import performance_metrics
 from fbprophet.diagnostics import cross_validation
@@ -27,7 +28,7 @@ if data is not None:
      max_date = appdata['ds'].max() #compute latest date in the data 
 
 #Choose the forecast horizon
-st.write("SELECIONE O PERIODO PARA PREVISÃO") #text displayed
+st.write("SELECT THE PERIOD FOR FORECAST") #text displayed
 periods_input = st.number_input('How many days forecast do you want?', min_value = 1, max_value = 1460)
 #The minimum number of days a user can select is one, while the maximum is  #365 (yearly forecast)
 
@@ -54,15 +55,12 @@ if data is not None:
     st.write(forecast_filtered)  #Display some forecasted records
     st.write("The next visual shows the actual (black dots) and predicted (blue line) values over time.")    
     figure1 = obj.plot(fcst) #plot the actual and predicted values
+    plt.xlabel("Date")
+    plt.ylabel("Cases")
     st.write(figure1)  #display the plot
  #Plot the trends using Prophet.plot_components()
     st.write("The following plots show a high level trend of predicted\n"
     "values, day of week trends and yearly trends (if dataset contains\n"
-    "multiple years’ data).Blue shaded area represents upper and lower confidence intervals.")
+    "multiple years' data).Blue shaded area represents upper and lower confidence intervals.")
     figure2 = obj.plot_components(fcst) 
     st.write(figure2) 
-
-
-
-
-
