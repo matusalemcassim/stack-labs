@@ -1,1 +1,1 @@
-pip install fbprophet
+py -m pip install fbprophet
