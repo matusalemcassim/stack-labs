@@ -3,7 +3,7 @@
 O projeto proposto foi em montar um projeto de ciência de dados end-to-end com dados públicos no kaggle, com a base de dados da OLIST, https://www.kaggle.com/olistbr/brazilian-ecommerce.
 
 Para esse projeto usamos o AWS S3 como bucket para os dados, SageMaker e VSCode como ambientes de desenvolvimento. 
-No ambiente on-premise usamos o docker para isolar o o ambiente. 
+No ambiente on-premise usamos o docker para isolar o ambiente. 
 
 Este projeto conta com uma equipe muito empenhada em desenvolver a melhor análise e solução para uma previsão de vendas utilizando séries temporais com o modelo ARIMA e também o PROPHET.
 
